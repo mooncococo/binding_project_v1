@@ -8,7 +8,7 @@ import App from '../App';
 
 // Note: test renderer must be required after react-native.
 import renderer from 'react-test-renderer';
-//test kmk
+//test ssg
 
 it('renders correctly', () => {
   renderer.create(<App />);
